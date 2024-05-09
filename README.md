@@ -15,8 +15,6 @@ Visual Studio ****/ Bootstrap / Kakao Adfit
 - **배포**
 Netlify / GitHub
 <br>
-<br>
-
 ### ✨ 주요 기능
 
 - **성격 유형 진단**
